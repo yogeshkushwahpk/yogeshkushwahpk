@@ -121,7 +121,7 @@
 - Serving as the core technical guide and career mentor for **100+ upcoming Software Engineers**, transforming them into highly-skilled Full Stack & AI Engineers.
 - Masterfully mentoring upcoming Software and Gen-AI Engineers in heavy backend technologies including **Node.js, Express, MongoDB, and Redis**, while simultaneously shaping their entire future engineering trajectory.
 
-### 🚀 Lead Full Stack Engineer @ Qurocity *(Dec 2024 - Nov 2025)*
+### 🚀 Full Stack Engineer @ Qurocity *(Dec 2024 - Nov 2025)*
 - Leading a high-performing 10-member development squad, orchestrating sprint planning, and conducting rigorous code reviews to foster a deeply collaborative **team player** culture.
 - Spearheading the end-to-end development of dynamic MERN stack applications, leveraging sharp AI code manipulation (using Cursor & Cloud Code) to boost delivery speeds by 10x.
 - Leveraging hardcore **DSA** optimizations to radically minimize database bottleneck loads and effectively reduce large-scale API latency.
